@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\bin\Debug\net8.0\DictatorSort.exe
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\bin\Debug\net8.0\DictatorSort.deps.json
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\bin\Debug\net8.0\DictatorSort.runtimeconfig.json
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\bin\Debug\net8.0\DictatorSort.dll
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\bin\Debug\net8.0\DictatorSort.pdb
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.dll
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\refint\DictatorSort.dll
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.pdb
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\DictatorSort.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Investigacion_Divide_Venceras\DictatorSort\obj\Debug\net8.0\ref\DictatorSort.dll
